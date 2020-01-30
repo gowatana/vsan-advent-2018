@@ -1,0 +1,3 @@
+[submodule "deploy-1box-vsan"]
+	path = deploy-1box-vsan
+	url = https://github.com/gowatana/deploy-1box-vsan.git
